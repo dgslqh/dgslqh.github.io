@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-Personal Info
+Abouot me
 ======
 I am Qihua Liu, currently a junior at Shenzhen University.
